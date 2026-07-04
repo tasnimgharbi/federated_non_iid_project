@@ -1,0 +1,4 @@
+Algorithm,Final Accuracy (%),Final Loss,Client STD,Client Variance,Communication Cost (MB),Avg. Latency (ms)
+FedAvg,92.64,0.1818,0.0236,0.0006,6.15,148.46
+FedProx,93.15,0.1757,0.0288,0.0008,6.15,209.57
+FedNova,93.62,0.1716,0.0215,0.0005,6.15,181.99

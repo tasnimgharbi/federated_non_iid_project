@@ -1,0 +1,7 @@
+### Fashion-MNIST — IID Results
+
+| Algorithm   |   Final Accuracy (%) |   Final Loss |   Client STD |   Client Variance |   Communication Cost (MB) |   Avg. Latency (ms) |
+|:------------|---------------------:|-------------:|-------------:|------------------:|--------------------------:|--------------------:|
+| FedAvg      |                86.2  |       0.386  |       0.0087 |            0.0001 |                     15.38 |              196    |
+| FedProx     |                87    |       0.3698 |       0.0056 |            0      |                     15.38 |              181.88 |
+| FedNova     |                86.97 |       0.3706 |       0.0056 |            0      |                     15.38 |              182.42 |

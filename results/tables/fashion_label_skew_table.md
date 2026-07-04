@@ -1,0 +1,7 @@
+### Fashion-MNIST — Label-Skew Results
+
+| Algorithm   |   Final Accuracy (%) |   Final Loss |   Client STD |   Client Variance |   Communication Cost (MB) |   Avg. Latency (ms) |
+|:------------|---------------------:|-------------:|-------------:|------------------:|--------------------------:|--------------------:|
+| FedAvg      |                28.07 |       3.0477 |       0.0542 |            0.0029 |                     15.38 |              163.32 |
+| FedProx     |                25.41 |       3.1294 |       0.0516 |            0.0027 |                     15.38 |              132.74 |
+| FedNova     |                25.66 |       3.2102 |       0.0514 |            0.0026 |                     15.38 |              145.11 |
